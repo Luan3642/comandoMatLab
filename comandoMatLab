@@ -1,0 +1,173 @@
+
+% Utilizamos o caracter ; para armazenar o valor da expressão. Sem a necessidade de exibir o resultado da expressão
+
+
+% somando dois valores 
+
+6 + 5
+
+
+% subtraindo dois valores 
+
+6 + 5
+
+% multiplicando dois valores
+
+6 * 5
+
+
+% divisando entre dois valores
+
+
+6 / 2
+
+
+% soma entre dois valores, atribuindo a variável A
+A = 5 + 5
+
+
+% substração entre dois valores, atribuindo a variável C
+
+C = 6 - 6
+
+
+% multiplicação entre dois valores, atribuindo a variável D
+
+D = 6 * 6
+
+
+% divisão entre dois valores, atribuindo a variável E
+
+E = 6 / 6
+
+
+% Atribuindo o valor 10 na primeira posição do vetor X
+
+X(1) = 10
+
+
+%Atribuindo o valor 20 na segunda posição do vetor X
+
+
+x(2) = 20
+
+
+%Atribuindo inúmeros valores ao vetor S
+
+S = [1, 2, 40, 50, 2014, 257, 555, 777]
+
+
+%Atribuindo inúmeros valores ao vetor C
+
+C = [6, 8, 10, 1000, 211, 555, 444, 1444]
+
+
+%Soma de dois vetores
+
+somaVetor = S + C
+
+
+%Vetores de 1 a 100
+
+
+v = 1:100
+
+
+%Vetores de 1 a 1000 com step de 2 em 2 
+
+E = 1:2:1000
+
+
+% Acessando a posição 3 do vetor E
+
+v(3)
+
+
+%Imprimindo numeros ZEROS com duas linhas e 3 colunas 
+
+zeros(2, 3)
+
+
+%Imprimindo UM com 3 linhas e 3 colunas
+
+ones(3, 3)
+
+
+%Criando uma matriz identidade de 5 linhas e 5 colunas
+
+eye(5)
+
+
+%Criando uma matriz com 3 linhas e 3 colunas
+
+
+matriz = [3, 4, 5 ; 2, 1, 4]
+
+
+%Acessando o valor da matriz 5
+
+matriz(1, 3)
+
+
+%Somando duas matrizes 
+
+matrizPrimaria = [1, 3]
+
+matrizSecundandaria = [2, 4]
+
+matrizPrimeira + matrizSecundaria
+
+
+%Divisão das matrizes
+
+divisao = matrizPrimaria / matrizSecundandaria
+
+
+%Multiplicação entre as matrizes
+
+matrizPrimeira .* matrizSecundandaria
+
+
+%Subtração entre as matrizes 
+
+matrizPrimeira - matrizSecundaria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
